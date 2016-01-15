@@ -1,0 +1,1 @@
+print ("i love Justin Bieber)
